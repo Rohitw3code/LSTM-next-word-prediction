@@ -1,0 +1,17 @@
+Learning to program is hard. It's difficult to know where to start, but it's even more challenging to know what to do after you've learned the basics. Jumping into a developer bootcamp for three months isn't enough.
+
+The following stories from successful developers (some of them self-taught) show you what it takes to join their ranks, highlighting how the authors learned programming and landed their first job, as well as chronicling people's moves from novice professional developer to exceptional software engineer.
+
+'How I became a developer' stories
+People can become developers from almost any background, whether they started programming at an early age and majored in computer science (CS), or they taught themselves how to code later in life. These stories focus on how the authors went from being beginning coders to getting that first job.
+
+My journey to becoming a web developer from scratch without a CS degree
+This article by Sergei Garcia is packed with excellent resources for anyone learning to become a front-end developer. He shares the technical details of his journey, along with almost every resource that he used. Garcia also includes the story of his first job and how he kept improving his skills after he landed it. Finally, he concludes with some advice, pitfalls, and an outline reiterating all of the learning materials that helped him, in the order that they should be approached.
+
+How I went from mopping floors at a tanning salon to becoming a software developer
+Nnenna Ndukwe describes a pivotal time in her life when she was out of funds to pursue a college degree and how she made the decision to leave town and learn programming. In addition to anecdotes, the story shares five strategies and tools that she used to build her programming skills. Her account shows us how important it is to struggle through the process of introspection and rediscover your passions.
+
+"Here I was, realizing that I was returning to my original nerdy self, but approaching and engaging with technology from a different angle." —Nnenna Ndukwe
+
+How I learned to program in 10 years
+Julia Evans is an extremely influential person in the software and operations engineering community. Her blog and Twitter account are super-popular, but the one thing you should know about Evans is that she has an always-learning mindset. While this post isn't saying that you need 10 years before you can become a programmer, it is saying that you should always feel as if you're "becoming" a programmer—even after you've gotten your first job. And while the years when she could devote more time to programming were the most beneficial, the years of less frequent hobby work in grade school and college helped build an important foundation. The bulk of this goes over the most interesting programming milestones in her life.
